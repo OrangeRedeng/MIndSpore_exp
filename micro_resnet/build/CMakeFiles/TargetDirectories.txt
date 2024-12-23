@@ -1,0 +1,6 @@
+/home/orangeredeng/LR1/micro_resnet/build/CMakeFiles/benchmark.dir
+/home/orangeredeng/LR1/micro_resnet/build/CMakeFiles/edit_cache.dir
+/home/orangeredeng/LR1/micro_resnet/build/CMakeFiles/rebuild_cache.dir
+/home/orangeredeng/LR1/micro_resnet/build/src/CMakeFiles/net.dir
+/home/orangeredeng/LR1/micro_resnet/build/src/CMakeFiles/edit_cache.dir
+/home/orangeredeng/LR1/micro_resnet/build/src/CMakeFiles/rebuild_cache.dir

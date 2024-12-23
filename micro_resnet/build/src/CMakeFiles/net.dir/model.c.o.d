@@ -1,0 +1,56 @@
+src/CMakeFiles/net.dir/model.c.o: \
+ /home/orangeredeng/LR1/micro_resnet/src/model.c \
+ /usr/include/stdc-predef.h \
+ /home/orangeredeng/LR1/micro_resnet/src/../src/model.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/model_c.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/tensor_c.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/types_c.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/data_type_c.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h /usr/include/stdint.h \
+ /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /usr/include/features.h /usr/include/features-time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /usr/include/x86_64-linux-gnu/bits/time64.h \
+ /usr/include/x86_64-linux-gnu/bits/wchar.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/format_c.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/context_c.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/status_c.h \
+ /home/orangeredeng/LR1/micro_resnet/src/../include/model_handle.h \
+ /usr/include/malloc.h /usr/include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio.h \
+ /usr/include/x86_64-linux-gnu/bits/stdio2.h \
+ /home/orangeredeng/LR1/micro_resnet/src/../src/context.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/context_c.h \
+ /home/orangeredeng/LR1/micro_resnet/src/../src/tensor.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/data_type_c.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/format_c.h \
+ /home/orangeredeng/mindspore/mindspore/lite/examples/quick_start_micro/pkgs/mindspore-lite-2.5.0-linux-x64/runtime/include/c_api/tensor_c.h \
+ /usr/include/string.h \
+ /usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /usr/include/strings.h \
+ /usr/include/x86_64-linux-gnu/bits/strings_fortified.h \
+ /usr/include/x86_64-linux-gnu/bits/string_fortified.h \
+ /home/orangeredeng/LR1/micro_resnet/src/../src/allocator.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdatomic.h

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -fPIE -D_FORTIFY_SOURCE=2 -O3 -Wall -Werror -fstack-protector-strong -Wno-attributes     -Wno-deprecated-declarations -Wno-missing-braces    -Wl,--gc-sections CMakeFiles/benchmark.dir/benchmark/benchmark.c.o CMakeFiles/benchmark.dir/benchmark/calib_output.c.o CMakeFiles/benchmark.dir/benchmark/load_input.c.o -o benchmark  src/libnet.a -lm -pthread

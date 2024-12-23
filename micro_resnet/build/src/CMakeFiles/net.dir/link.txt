@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnet.a CMakeFiles/net.dir/allocator.c.o CMakeFiles/net.dir/context.c.o CMakeFiles/net.dir/model.c.o CMakeFiles/net.dir/model0/model0.c.o CMakeFiles/net.dir/model0/net0.c.o CMakeFiles/net.dir/model0/weight0.c.o CMakeFiles/net.dir/tensor.c.o
+/usr/bin/ranlib libnet.a
